@@ -1,2 +1,2 @@
-# C_fundamentals-
-algorithms &amp; data_structure practice. 42 Piscine
+# C_fundamentals
+Algorithms &amp; data_structure practice. 42 Piscine
